@@ -2,7 +2,7 @@
 A graphing calculator formula sheet for the AP Calculus AB course
 
 ## Warning:
-**Use this program at your own risk.  We are not responsible for your calculator if you use this program.  For all you know we are mining Bitcoin on your calculator.  Only use it in situations where you are allowed to use it.**
+**Use this program at your own risk.  We are not responsible for your calculator if you use this program.  Only use it in situations where you are allowed to use it.**
 
 ## Installing Skynet to the Calculator:
 Download the correct version of Skynet for your calculator.
